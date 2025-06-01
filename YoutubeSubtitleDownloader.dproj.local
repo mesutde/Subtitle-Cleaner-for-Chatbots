@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.12.26 20:40:47.830,=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.12.26 20:41:13.938,D:\Yazılım\Delphi\Delphi Youtube Subtitle Downloader\frmMain.dfm=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024.12.26 20:41:13.938,D:\Yazılım\Delphi\Delphi Youtube Subtitle Downloader\frmMain.pas=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.12.26 20:41:26.984,D:\Yazılım\Delphi\Delphi Youtube Subtitle Downloader\YoutubeSubtitleDownloader.dproj=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
