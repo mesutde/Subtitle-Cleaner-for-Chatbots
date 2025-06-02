@@ -61,6 +61,7 @@ This tool makes it much easier to feed clean subtitles into AI systems for effic
 
 ![image](https://github.com/user-attachments/assets/4f7b9aa8-e38f-47c2-8edc-cdeaf5762431)
 ![image](https://github.com/user-attachments/assets/f84009f5-e997-41ed-8686-43124c1ee8df)
+![image](https://github.com/user-attachments/assets/4432097e-e30d-40ff-8c1c-de4d771e2ec5)
 
 
 
